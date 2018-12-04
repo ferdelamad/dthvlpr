@@ -1,9 +1,11 @@
 ##NPM
 node_modules/
 
-
 ##LOCAL
 .DS_Store
 
 ##VSCODE FILES
 .vscode/
+
+##VSCODE FILES
+.next/
